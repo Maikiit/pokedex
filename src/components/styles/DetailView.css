@@ -4,7 +4,7 @@
   margin: 340px auto;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
-  text-align: center
+  text-align: center;
 }
 
 .sprite-image {
@@ -18,7 +18,7 @@
   height: 80px;
   padding: 10px;
   margin: 0 auto;
- color: #555;
+  color: #555;
 }
 
 .data-name {
